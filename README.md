@@ -32,7 +32,7 @@ Writing modular code in C for embedded systems.
 Using timers, interrupts, and GPIOs to synchronize hardware events.
 Applying state machine design for control logic.
 Managing resources and tasks efficiently in real time.
-
+Main source code: Core/Src/main.c
 ![Demo del taxímetro](TaximeterElectronics.png)
 
 
