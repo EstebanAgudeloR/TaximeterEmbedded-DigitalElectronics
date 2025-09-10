@@ -3,7 +3,7 @@
 ## Overview
 This project implements a taximeter system on an STM32 microcontroller using C.  
 The system simulates the behavior of a real taximeter by combining:
-
+ 
 - State machine architecture for event handling.
 - Interrupt-driven programming using hardware timers (TIM2, TIM3).
 - Digital display control through multiplexed 7-segment displays.
