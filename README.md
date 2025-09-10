@@ -33,6 +33,8 @@ Using timers, interrupts, and GPIOs to synchronize hardware events.
 Applying state machine design for control logic.
 Managing resources and tasks efficiently in real time.
 
+![Demo del taxímetro](TaximeterElectronics.png)
+
 
 
 
